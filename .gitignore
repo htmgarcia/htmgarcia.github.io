@@ -1,2 +1,3 @@
 
 *.xml
+!joomla/updates/*.xml
