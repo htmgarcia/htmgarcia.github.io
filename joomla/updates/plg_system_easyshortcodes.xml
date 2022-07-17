@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+    <update>
+        <name><![CDATA[Easy Shortcodes]]></name>
+        <description><![CDATA[Easy Shortcodes update]]></description>
+        <element>easyshortcodes</element>
+        <type>plugin</type>
+        <folder>system</folder>
+        <client>site</client>
+        <version>1.1.0</version>
+        <infourl>https://htmgarcia.com/joomla-extensions/easy-shortcodes</infourl>
+        <downloads>
+            <downloadurl format="zip" type="full"><![CDATA[https://github.com/htmgarcia/easyshortcodes/releases/download/v1.1.0/plg_easyshortcodes-1.1.0.zip]]></downloadurl>
+        </downloads>
+        <tags>
+            <tag>stable</tag>
+        </tags>
+        <maintainer><![CDATA[htmgarcia]]></maintainer>
+        <maintainerurl><![CDATA[https://htmgarcia.com]]></maintainerurl>
+        <targetplatform name="joomla" version=".*"/>
+    </update>
+</updates>
