@@ -5,7 +5,7 @@
         <description>Multi Layouts update</description>
         <element>mod_multi_layouts</element>
         <type>module</type>
-        <version>1.0.0</version>
+        <version>1.2.0</version>
         <infourl title="Multi Layouts update">https://htmgarcia.com/joomla-extensions/multi-layouts</infourl>
         <downloads>
             <downloadurl type="full" format="zip">https://github.com/htmgarcia/multilayouts/releases/download/v1.0.0/mod_multi_layouts-1.0.0.zip</downloadurl>
