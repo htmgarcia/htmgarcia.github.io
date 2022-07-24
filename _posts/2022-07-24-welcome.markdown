@@ -4,7 +4,7 @@ title:  "Welcome (back)!"
 date:   2022-07-24 17:34:36 -0500
 categories: blog
 ---
-I'm Valentín García, now using Jekyll for the first time. This is my first post. Ssecond, counting the default "Welcome to Jekyll!" one already deleted.
+I'm Valentín García, now using Jekyll for the first time. This is my first post. Second, counting the default "Welcome to Jekyll!" one already deleted.
 
 I feel curious about the static site generators (aka Jamstack). The first one I knew was Jekyll more than a decade ago (I know, it sounds I'm very late learning this cool static site generator). My recent-sudden interest in this software is related to Jekyll themes. I want to learn to code themes and who knows, maybe later start selling them, giving for free or both.
 
