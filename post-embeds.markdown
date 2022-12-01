@@ -1,12 +1,20 @@
 ---
 layout: page
-title: Post Embeds - Customize your WordPress post embeds
+title: Post Embeds
 description: "Post Embeds plugin makes easy to customize your WordPress post embeds."
 permalink: /post-embeds/
 ---
 
+# Post Embeds
+{: .no_toc }
+
 ## Table of contents
 {: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 ## Introduction
 
