@@ -24,3 +24,5 @@ Post Embeds plugin makes easy to customize your WordPress post embeds. You can m
 - Display options for date and time
 - Display options for read more link
 - Display options for author
+
+## Documentation
