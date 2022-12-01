@@ -14,8 +14,6 @@ permalink: /post-embeds/
 1. TOC
 {:toc}
 
----
-
 ## Introduction
 
 You can embed your WordPress posts in other websites in a similar way you embed social media.
