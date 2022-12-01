@@ -5,14 +5,12 @@ description: "Post Embeds plugin makes easy to customize your WordPress post emb
 permalink: /post-embeds/
 ---
 
-# Post Embeds
-{: .no_toc }
-
 ## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
+
 
 ## Introduction
 
