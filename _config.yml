@@ -18,11 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: htmgarcia
+title: About me
 email: htmgarcia@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Passionate about Joomla, WordPress and CSS
-  Español / English / 少し日本語
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://htmgarcia.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: htmgarcia
