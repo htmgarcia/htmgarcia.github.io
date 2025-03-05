@@ -5,7 +5,7 @@
         <description><![CDATA[jVisual CSS component update]]></description>
         <element>com_jvisualcss</element> 
         <type>component</type>
-        <version>0.0.2</version>
+        <version>0.0.1</version>
         <infourl>https://htmgarcia.com/joomla-extensions/jvisual-css</infourl>
         <downloads>
             <!-- <downloadurl format="zip" type="full"><![CDATA[http://htmgarcia.github.io/joomla/updates/com_jvisualcss/com_jvisualcss-0.0.1.zip]]></downloadurl> -->

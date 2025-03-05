@@ -7,7 +7,7 @@
         <type>plugin</type>
         <folder>system</folder>
         <client>site</client>
-        <version>0.0.2</version>
+        <version>0.0.1</version>
         <infourl>https://htmgarcia.com/joomla-extensions/jvisual-css</infourl>
         <downloads>
             <!-- <downloadurl format="zip" type="full"><![CDATA[http://htmgarcia.github.io/joomla/updates/plg_system_jvisualcss/plg_system_jvisualcss-0.0.1.zip]]></downloadurl> -->
