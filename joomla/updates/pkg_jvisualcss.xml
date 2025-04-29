@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+    <update>
+        <name><![CDATA[jVisual CSS Package]]></name>
+        <description><![CDATA[jVisual CSS package update]]></description>
+        <element>pkg_jvisualcss</element> 
+        <type>package</type>
+        <version>0.1.0</version>
+        <infourl>https://htmgarcia.com/joomla-extensions/jvisual-css</infourl>
+        <downloads>
+            <downloadurl format="zip" type="full"><![CDATA[http://htmgarcia.github.io/joomla/updates/pkg_jvisualcss/pkg_jvisualcss-0.1.0.zip]]></downloadurl>
+        </downloads>
+        <tags>
+            <tag>stable</tag>
+        </tags>
+        <maintainer><![CDATA[htmgarcia]]></maintainer>
+        <maintainerurl><![CDATA[https://htmgarcia.com]]></maintainerurl>
+        <targetplatform name="joomla" version=".*"/>
+    </update>
+</updates>
