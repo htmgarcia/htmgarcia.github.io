@@ -6,10 +6,10 @@
         <element>mod_multi_layouts</element>
         <type>module</type>
         <client>site</client>
-        <version>1.1.0</version>
+        <version>1.2.0</version>
         <infourl>https://htmgarcia.com/joomla-extensions/multi-layouts</infourl>
         <downloads>
-            <downloadurl format="zip" type="full"><![CDATA[https://github.com/htmgarcia/multilayouts/releases/download/v1.1.0/mod_multi_layouts-1.1.0.zip]]></downloadurl>
+            <downloadurl format="zip" type="full"><![CDATA[http://htmgarcia.github.io/joomla/updates/mod_multi_layouts/mod_multi_layouts-1.2.0.zip]]></downloadurl>
         </downloads>
         <tags>
             <tag>stable</tag>
