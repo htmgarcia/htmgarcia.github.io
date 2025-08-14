@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+    <update>
+        <name><![CDATA[Multi Layouts]]></name>
+        <description><![CDATA[Multi Layouts update]]></description>
+        <element>mod_multi_layouts</element>
+        <type>module</type>
+        <client>site</client>
+        <version>1.4.0</version>
+        <infourl>https://htmgarcia.com/joomla-extensions/multi-layouts</infourl>
+        <downloads>
+            <downloadurl format="zip" type="full"><![CDATA[https://htmgarcia.github.io/joomla/updates/mod_multi_layouts_pro/update.zip?name=mod_multi_layouts]]></downloadurl>
+        </downloads>
+        <tags>
+            <tag>stable</tag>
+        </tags>
+        <maintainer><![CDATA[htmgarcia]]></maintainer>
+        <maintainerurl><![CDATA[https://htmgarcia.com]]></maintainerurl>
+        <targetplatform name="joomla" version=".*"/>
+    </update>
+</updates>
