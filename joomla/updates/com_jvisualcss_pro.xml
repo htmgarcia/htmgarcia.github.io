@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <updates>
     <update>
-        <name><![CDATA[jVisual CSS Pro]]></name>
-        <description><![CDATA[jVisual CSS Pro update]]></description>
-        <element>pkg_jvisualcss_pro</element>
-        <type>package</type>
+        <name><![CDATA[jVisual CSS]]></name>
+        <description><![CDATA[jVisual CSS update]]></description>
+        <element>com_jvisualcss</element> 
+        <type>component</type>
         <version>1.1.1</version>
-        <infourl title="jVisual CSS Pro">https://htmgarcia.com/joomla-extensions/jvisual-css</infourl>
+        <infourl>https://htmgarcia.com/joomla-extensions/jvisual-css</infourl>
         <downloads>
             <downloadurl format="zip" type="full"><![CDATA[https://htmgarcia.github.io/files/update.zip?name=pkg_jvisualcss_pro&version=1.1.1]]></downloadurl>
         </downloads>
