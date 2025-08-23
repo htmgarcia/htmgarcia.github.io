@@ -8,7 +8,7 @@
         <version>1.1.1</version>
         <infourl>https://htmgarcia.com/joomla-extensions/jvisual-css</infourl>
         <downloads>
-            <downloadurl format="zip" type="full"><![CDATA[https://htmgarcia.github.io/files/update.zip?name=pkg_jvisualcss_pro&version=1.1.1]]></downloadurl>
+            <downloadurl format="zip" type="full"><![CDATA[https://htmgarcia.github.io/files/update.zip?name=com_jvisualcss_pro&version=1.1.1]]></downloadurl>
         </downloads>
         <tags>
             <tag>stable</tag>
