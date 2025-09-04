@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <updates>
     <update>
-        <name><![CDATA[Easy Shortcodes]]></name>
-        <description><![CDATA[Easy Shortcodes update]]></description>
+        <name><![CDATA[Easy Shortcodes Pro]]></name>
+        <description><![CDATA[Easy Shortcodes Pro update]]></description>
         <element>easyshortcodes</element>
         <type>plugin</type>
         <folder>system</folder>
