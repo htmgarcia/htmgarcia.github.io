@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <updates>
     <update>
-        <name><![CDATA[Inner Content Pro]]></name>
-        <description><![CDATA[Inner Content Pro update]]></description>
+        <name><![CDATA[Inner Content]]></name>
+        <description><![CDATA[Inner Content update]]></description>
         <element>innercontent</element>
         <type>plugin</type>
         <folder>content</folder>
@@ -10,7 +10,7 @@
         <version>2.0.0</version>
         <infourl>https://htmgarcia.com/joomla-extensions/inner-content</infourl>
         <downloads>
-            <downloadurl format="zip" type="full"><![CDATA[https://htmgarcia.github.io/files/update.zip?name=com_innercontent_pro&version=2.0.0]]></downloadurl>
+            <downloadurl format="zip" type="full"><![CDATA[http://htmgarcia.github.io/joomla/updates/plg_content_innercontent/plg_content_innercontent-2.0.0.zip]]></downloadurl>
         </downloads>
         <tags>
             <tag>stable</tag>
