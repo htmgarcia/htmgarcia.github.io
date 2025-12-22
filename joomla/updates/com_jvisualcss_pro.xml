@@ -15,6 +15,6 @@
         </tags>
         <maintainer><![CDATA[htmgarcia]]></maintainer>
         <maintainerurl><![CDATA[https://htmgarcia.com]]></maintainerurl>
-        <targetplatform name="joomla" version=".*"/>
+        <targetplatform name="joomla" version="(4|5|6)(\.(0|1|2|3|4|5|6|7|8|9))+"/>
     </update>
 </updates>
