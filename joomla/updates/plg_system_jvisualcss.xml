@@ -7,16 +7,16 @@
         <type>plugin</type>
         <folder>system</folder>
         <client>site</client>
-        <version>1.1.0</version>
+        <version>1.2.0</version>
         <infourl>https://htmgarcia.com/joomla-extensions/jvisual-css</infourl>
         <downloads>
-            <downloadurl format="zip" type="full"><![CDATA[http://htmgarcia.github.io/joomla/updates/plg_system_jvisualcss/plg_system_jvisualcss-1.1.0.zip]]></downloadurl>
+            <downloadurl format="zip" type="full"><![CDATA[http://htmgarcia.github.io/joomla/updates/plg_system_jvisualcss/plg_system_jvisualcss-1.2.0.zip]]></downloadurl>
         </downloads>
         <tags>
             <tag>stable</tag>
         </tags>
         <maintainer><![CDATA[htmgarcia]]></maintainer>
         <maintainerurl><![CDATA[https://htmgarcia.com]]></maintainerurl>
-        <targetplatform name="joomla" version=".*"/>
+        <targetplatform name="joomla" version="(4|5|6)(\.(0|1|2|3|4|5|6|7|8|9))+"/>
     </update>
 </updates>
