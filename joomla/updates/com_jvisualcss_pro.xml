@@ -5,16 +5,16 @@
         <description><![CDATA[jVisual CSS update]]></description>
         <element>com_jvisualcss</element> 
         <type>component</type>
-        <version>1.1.0</version>
+        <version>1.2.0</version>
         <infourl>https://htmgarcia.com/joomla-extensions/jvisual-css</infourl>
         <downloads>
-            <downloadurl format="zip" type="full"><![CDATA[https://htmgarcia.github.io/files/update.zip?name=com_jvisualcss_pro&version=1.1.0]]></downloadurl>
+            <downloadurl format="zip" type="full"><![CDATA[https://htmgarcia.github.io/files/update.zip?name=com_jvisualcss_pro&version=1.2.0]]></downloadurl>
         </downloads>
         <tags>
             <tag>stable</tag>
         </tags>
         <maintainer><![CDATA[htmgarcia]]></maintainer>
         <maintainerurl><![CDATA[https://htmgarcia.com]]></maintainerurl>
-        <targetplatform name="joomla" version=".*"/>
+        <targetplatform name="joomla" version="(4|5|6)(\.(0|1|2|3|4|5|6|7|8|9))+"/>
     </update>
 </updates>
